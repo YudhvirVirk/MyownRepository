@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="ff">
+	<test name="vv">
+		<classes>
+			<class name="com.ud.testclasses.UdTest" />
+			<class name="com.ud.testclasses.UdTest22" />
+		</classes>
+	</test>
+</suite>
